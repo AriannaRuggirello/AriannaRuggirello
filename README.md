@@ -1,5 +1,5 @@
-### Hi there 👋
-<h1 align="left">Hey,I'm Arianna 👋 </h1>
+
+<h1 align="left">Hey,I'm Arianna 👋💻  </h1>
 
 
 ![Black and White Minimalist Bordered General Linkedin Banner(1)](https://github.com/AriannaRuggirello/AriannaRuggirello/assets/115536573/a25917ea-e1f8-4a8b-a53e-0e58c57a615f)
